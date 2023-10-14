@@ -6,6 +6,7 @@
 
 <br />
 
+👉 [**Game demo!!**](https://youtu.be/bMi5TWuwDgo) <br />
 👉 [**Project Repository!!**](https://github.com/gogori6565/ICCAS-2023-1-ICCASTAIR)
 
 <br />
@@ -260,7 +261,7 @@ pc로 게임 시연을 준비하고, 오시는 분마다 프로젝트 설명을 
 
 2. 나의 첫 게임 개발
 
-- 나에게 도전적이였던 C#과 Unity 금방 배운다!(나는 아마 야매..?)
+- 나에게 도전적이였던 C#과 Unity 금방 배운다!(나는 아마 야매..?) 👉[**미니프로젝트 저장소**](https://github.com/LEEJINTAEK/Unity_Games)
 - 게임 개발자는 천재인가?
 
 3. 나의 첫 해외 발표
